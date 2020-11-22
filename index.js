@@ -8,7 +8,7 @@ for(var i = 1; i<=5; i++){
     
     if(guessNum == randomNum){
     
-        console.log("You Won!");
+        console.log("You Won!!");
         won++;
     
     }
